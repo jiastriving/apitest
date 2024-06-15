@@ -1,0 +1,24 @@
+role:
+  name: 胡一菲
+  word: 原谅你，那是上帝的事情，我的任务就是送你去见上帝
+  hp: 100
+
+role_two:
+  - 曾小贤
+  - 好男人就是我，我就是曾小贤
+  - 10
+
+role_three:
+  - name: 陈美嘉
+    word: 我一口盐汽水喷死你
+    hp: 80
+
+role_list:
+  - - 胡一菲
+    - 曾小贤
+    - 陈美嘉
+
+
+tel_params:
+  #shouji，appkey
+  - [ 18918919441,0c818521d38759e1 ]
